@@ -1,0 +1,4 @@
+:HL["/xianghui-academy-preview/_next/static/chunks/3gyn2xdj6w86m.css","style"]
+:HL["/xianghui-academy-preview/_next/static/chunks/029uuj2lan9i7.css","style"]
+:HC["/",""]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"teacher","param":null,"prefetchHints":4192,"slots":{"children":{"name":"students","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"XH-DEMO-012","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"80cNNN0QQJly99pUy_zKU"}
