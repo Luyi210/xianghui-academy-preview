@@ -1,4 +1,6 @@
 :HL["/xianghui-academy-preview/_next/static/chunks/10moa1n47q49r.css","style"]
 :HL["/xianghui-academy-preview/_next/static/chunks/0zvmhz_564vkw.css","style"]
-:HL["/xianghui-academy-preview/_next/static/chunks/0aqalw4wqyed7.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"wYQ5KLp0DHr4TpdL8DZh1"}
+:HL["/xianghui-academy-preview/_next/static/chunks/2oslvlilp9swi.css","style"]
+:HL["/xianghui-academy-preview/_next/static/chunks/0n_d5j_hg75nr.css","style"]
+:HL["/xianghui-academy-preview/preview/campus-hall.jpg","image",{"fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"q45RF2UI4U9qQKd5Ro4wn"}
