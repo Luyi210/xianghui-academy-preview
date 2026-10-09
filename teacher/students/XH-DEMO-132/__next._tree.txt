@@ -1,4 +1,5 @@
-:HL["/xianghui-academy-preview/_next/static/chunks/41ktwte_26gxt.css","style"]
+:HL["/xianghui-academy-preview/_next/static/chunks/10moa1n47q49r.css","style"]
 :HL["/xianghui-academy-preview/_next/static/chunks/0zvmhz_564vkw.css","style"]
-:HL["/xianghui-academy-preview/_next/static/chunks/1ilh1wjo0t65v.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"teacher","param":null,"prefetchHints":4192,"slots":{"children":{"name":"students","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"XH-DEMO-132","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"PuDXEtfDZERtAoiNjDZSf"}
+:HL["/xianghui-academy-preview/_next/static/chunks/3ftbzxq53lm05.css","style"]
+:HL["/xianghui-academy-preview/_next/static/chunks/0aqalw4wqyed7.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"teacher","param":null,"prefetchHints":4192,"slots":{"children":{"name":"students","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"XH-DEMO-132","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"m5uF5w6RlI4_0Hhn2fmkW"}
