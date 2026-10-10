@@ -4,4 +4,4 @@
 :HL["/xianghui-academy-preview/_next/static/chunks/3gkd6xlzxgllc.css","style"]
 :HL["/xianghui-academy-preview/fudan/fudan-wordmark-blue.png","image"]
 :HL["/xianghui-academy-preview/fudan/campus-xianghui-hall-original.jpg","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"mY86WgiBjxjoWufdgAZca"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"cEP6g-sjhQ3VvpG1RIFDI"}
