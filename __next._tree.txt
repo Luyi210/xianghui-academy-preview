@@ -1,7 +1,7 @@
 :HL["/xianghui-academy-preview/_next/static/chunks/10moa1n47q49r.css","style"]
 :HL["/xianghui-academy-preview/_next/static/chunks/43k8j0zwa5rc-.css","style"]
-:HL["/xianghui-academy-preview/_next/static/chunks/2g0z9u0ed1nh2.css","style"]
+:HL["/xianghui-academy-preview/_next/static/chunks/3trsrxs0g37sy.css","style"]
 :HL["/xianghui-academy-preview/_next/static/chunks/3h64lz1fxzr5j.css","style"]
 :HL["/xianghui-academy-preview/fudan/fudan-wordmark-blue.png","image"]
 :HL["/xianghui-academy-preview/fudan/campus-xianghui-hall-original.jpg","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"dCwkh0WaROY4hbYksJULn"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"y4dg6EbDlWB98YTkFOC0P"}
